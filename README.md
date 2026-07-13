@@ -4,18 +4,19 @@
 
 Algumas opções para integrar em pipelines de dados e alimentar *data lakes* por domínio de interesse:  
 **1. Estatísticas Agrícolas e Produção**  
-- **IBGE (SIDRA):** Oferece o Levantamento Sistemático da Produção Agrícola (LSPA) e a Produção Agrícola Municipal (PAM). Você pode consultar e extrair essas séries temporais de forma automatizada usando a API oficial do sistema ou bibliotecas de terceiros, como o pacote {sidrapy} em Python. Acesse a documentação no Portal de Serviços de Dados do IBGE.  
+- **IBGE (SIDRA):** Oferece o Levantamento Sistemático da Produção Agrícola (LSPA) e a Produção Agrícola Municipal (PAM). Você pode consultar e extrair essas séries temporais de forma automatizada usando a API oficial do sistema ou bibliotecas de terceiros, como o pacote {sidrapy} em Python. Acesse a documentação no Portal de Serviços de Dados do IBGE.
+
 | **Informação** | **Utilidade** |
 |---|---|   
-| Produção Agrícola Municipal (PAM) | Planejamento da produção |   
-| Pecuária Municipal (PPM) | Bovinos, leite, aves, mel |   
-| Censo Agropecuário | Perfil da propriedade rural |   
-| Valor da Produção | Rentabilidade regional |   
-| Agricultura Familiar | Programas governamentais |   
-| Irrigação | Comparação tecnológica |   
-| Máquinas agrícolas | Nível de mecanização |   
-| Uso da terra | Expansão agrícola |   
-| Demografia rural | Mercado consumidor e mão de obra |   
+| Produção Agrícola Municipal (PAM) | [Planejamento da produção](https://sidra.ibge.gov.br/tabela/1612) |   
+| Pecuária Municipal (PPM) | [Bovinos, leite, aves, mel](https://sidra.ibge.gov.br/tabela/1613) |   
+| Censo Agropecuário | [Perfil da propriedade rural](https://sidra.ibge.gov.br/tabela/1614) |   
+| Valor da Produção | [Rentabilidade regional](https://sidra.ibge.gov.br/tabela/1615) |   
+| Agricultura Familiar | [Programas governamentais](https://sidra.ibge.gov.br/tabela/1616) |   
+| Irrigação | [Comparação tecnológica](https://sidra.ibge.gov.br/tabela/1617) |   
+| Máquinas agrícolas | [Nível de mecanização] |   
+| Uso da terra | [Expansão agrícola] |   
+| Demografia rural | [Mercado consumidor e mão de obra] |   
 
 - **CONAB:** Essencial para estimativas de safra, custos de produção e preços agropecuários (grãos, cana, café). Você pode extrair os relatórios e microdados diretamente do [Portal de Informações Agropecuárias da Conab](https://portaldeinformacoes.conab.gov.br/ "https://portaldeinformacoes.conab.gov.br/").  
 
