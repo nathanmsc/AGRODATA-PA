@@ -1,6 +1,6 @@
 # **Pipeline de dados agrícolas: Da coleta ao Data Lake**
 
-**Autores:** Nathan M. S. C.  
+**Autores:**   
 **Instituição:** Universidade Federal de Mato Grosso - UFMT  
 **Data:** Julho 2026  
 
